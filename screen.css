@@ -1,8 +1,13 @@
 body {
   font-family: Helvetica, sans-serif;
-  background-color: #fff;
+  background: #fff;
   border-top: 15px solid #424242;
-  margin: 0;
+  margin: 0 auto;
+}
+
+main {
+    margin: 0 auto;
+    width: 900px;
 }
 
 img {
