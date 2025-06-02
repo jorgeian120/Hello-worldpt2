@@ -38,11 +38,21 @@ img {
     border-radius: 20px;
 }
 
+h1 {
+    background-image: url('logo.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: center left;
+    font-size: 3em;
+    padding-left: 50px;
+    margin: 100px 0 25px 0;
+}
+
 h2 {
     margin: 0 0 10px 0;
 }
 
 p {
     margin: 0;
-    line-height: 1.4en;
+    line-height: 1.4em;
 }
