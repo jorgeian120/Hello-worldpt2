@@ -16,9 +16,7 @@ main {
 }
 
 .masthead {
-    background-image: url('image.png');
-    background-size: cover;
-    background-position: bottom;
+    background: no-repeat bottom / cover url('image.png');
     height: 200px;
     border-radius: 20px;
 }
