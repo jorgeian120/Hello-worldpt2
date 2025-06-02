@@ -19,7 +19,7 @@ main {
     background-image: url('image.png');
     background-size: cover;
     background-position: bottom;
-    height: 200pc;
+    height: 200px;
     border-radius: 20px;
 }
 
